@@ -18,7 +18,7 @@ export const frontendServices: PredefinedService[] = [
     id: "development",
     title: "Réalisation du code",
     description: "- Intégration Next.js/React en suivant la maquette validée\n- Développement des fonctionnalités interactives\n- Tests et optimisations\n- Ajustements après les retours",
-    defaultHours: 35,
+    defaultHours: 48,
     defaultPrice: 1050
   },
   {
