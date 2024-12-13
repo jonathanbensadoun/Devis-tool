@@ -39,7 +39,7 @@ const DateForm = ({
         onChange={
           (e) => onChange(formatDateForLocale(e.target.value)) // Convertit en DD/MM/YYYY
         }
-        className="mt-1 block w-full border p-2 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+        className="mt-1 block  border p-2 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
       />
     </div>
   );
